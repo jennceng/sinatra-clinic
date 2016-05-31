@@ -1,4 +1,4 @@
-require 'sinatra'
+require 'Sinatra'
 require 'pry'
 
 get '/' do
